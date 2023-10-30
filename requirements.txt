@@ -1,5 +1,6 @@
 gunicorn
 Flask
+gevent
 joblib
 keras
 matplotlib
